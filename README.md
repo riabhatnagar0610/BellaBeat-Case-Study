@@ -4,7 +4,7 @@ This repository contains the BellaBeat Case Study project, which aims to analyze
 
 ## Technologies Used
 
-The following technologies were utilized in this project:
+The following technologies were utilized in this project :
 
 - Microsoft Server Management Studio
 - Tableau
